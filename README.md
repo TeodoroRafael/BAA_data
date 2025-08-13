@@ -1,7 +1,3 @@
-Here’s a polished and more precise version of your text, with grammar fixes, clearer structure, and improved readability:
-
----
-
 ## BAA\_data
 
 Dataset for **Bone Age Assessment** using **Greulich and Pyle** metrics.
