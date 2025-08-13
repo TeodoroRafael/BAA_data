@@ -1,15 +1,31 @@
-# BAA_data
-Dataset for Bone Age Assessment using Greulich and Pyle Metrics
+Here’s a polished and more precise version of your text, with grammar fixes, clearer structure, and improved readability:
 
-# Using the dataset
-1. Download X_data_256.pickle and y_data.pickle files in the links below.
-2. Load it with Python using pickle lib
-3. X_data_256 is divided into 5 folds; Each fold contains several objects, where positions 0 and 1 represent the image and the sex of the patient, respectively.
-4. y_data contains 5 folds; each object in position n corresponds to an object of the same fold and position in X_data_256.
-    
+---
 
-## Data links
-1. X_data_256.pickle
-   link: https://www.icloud.com/iclouddrive/0ffIn_qyiTAxZAiX9nQmGhoRw#X%5Fdata%5F256
-3. y_data.pickle
-   link: https://www.icloud.com/iclouddrive/0cbzle4f-FzUo62-9Lx1BZKIg#y%5Fdata
+## BAA\_data
+
+Dataset for **Bone Age Assessment** using **Greulich and Pyle** metrics.
+
+---
+
+### 📥 Download the Dataset
+
+1. The dataset is provided as **`Data.zip`** in the TAG section.
+2. You can either click on the TAG in the repository or directly use this link:
+   [Download Data.zip](https://github.com/TeodoroRafael/BAA_data/releases/tag/Data)
+
+---
+
+### 📂 Dataset Contents
+
+After extracting **`Data.zip`**, you will find:
+
+* **`images/`** – A folder containing all radiographic images.
+* **`Data_GP.csv`** – A CSV file with three columns:
+
+  * **`image_id`** – Unique identifier for each image (matches a file in the `images/` folder).
+  * **`sex`** – Binary value indicating gender (`0` = female, `1` = male).
+  * **`normalized_greulich_pyle`** – Normalized Greulich and Pyle bone age score.
+
+---
+
