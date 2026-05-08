@@ -39,7 +39,7 @@ Dataset and methodology are described in the associated publication:
 
 ### 📂 Dataset Contents
 
-After extracting **`Data.zip`**, you will find:
+After extracting **`Data_UCI.zip`**, you will find:
 
 * **`images/`** – A folder containing all radiographic images.
 * **`Data_GP.csv`** – A CSV file with three columns:
