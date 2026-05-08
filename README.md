@@ -33,7 +33,7 @@ Dataset and methodology are described in the associated publication:
 
 1. The dataset is provided as **`Data_UCI.zip`** in the TAG section.
 2. You can either click on the TAG in the repository or directly use this link:
-   [Download Data.zip](https://github.com/TeodoroRafael/BAA_data/releases/tag/Data)
+   [Download Data_UCI.zip](https://github.com/TeodoroRafael/BAA_data/releases/tag/Data)
 
 ---
 
